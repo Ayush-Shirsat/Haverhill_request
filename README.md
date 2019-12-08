@@ -50,4 +50,10 @@ Note: the path of the data being read in the notebooks should be as follows:
 * geodata.ipynb
   - ./Hav_Precincts&Wards_Shp/Precincts_Wards.shp
 
+### **References**
 
+* http://geopandas.org
+* https://automating-gis-processes.github.io/CSC/course-info/course-info.html
+* https://www.spatialreference.org/ref/epsg/2249/
+* https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
+* https://www.openstreetmap.org/export#map=13/42.7829/-71.0817
